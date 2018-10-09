@@ -1,0 +1,6 @@
+[package]
+name = "booths-algorithm"
+version = "0.1.0"
+authors = ["jsck <jack@jackhil.de>"]
+
+[dependencies]
